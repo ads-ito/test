@@ -1,0 +1,29 @@
+【AWS VPC】
+I-TEAM
+iteam.sincerity.first@gmail.com
+Iteam0306
+
+アカウント：673661531309
+
+ユーザ：UserAmplify
+アクセスキーID：AKIAZZWK3GSW4R5ABBNI
+シークレットアクセスキー：dy7r752I21rsDahlseA8L2tAX72bjCSIZULUnIK/
+
+ユーザ：amplify-user
+アクセスキーID：AKIAZZWK3GSWQM722OFX
+シークレットアクセスキー：KxG0KLKN0F97j5buZ9dAwIM6pcq5H3o4FRst7QVv
+
+ユーザ：UserAdmin
+初回パスワード：eG'8j|HO6)RE
+パスワード：Iteam0306
+アクセスキーID：AKIAZZWK3GSWQJDLEIHM
+シークレットアクセスキー：0wz639eVpHeBAblZBLuADEUtcoC9TLAJQRJOi2NR
+
+ユーザ：UserDevelop
+アクセスキーID：AKIAZZWK3GSW7SR47FPJ
+シークレットアクセスキー：7H7L7xTU6lEjr8XXiWuxpEqDm9eW+2mYnknJWoNs
+
+CodeCommit HTTPS
+ユーザ：UserDevelop-at-673661531309
+パスワード：t+/dO7fUByohnxrZKgBK3FAfSAsFx4giXPbpwm7GN5k=
+
