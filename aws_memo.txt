@@ -20,7 +20,13 @@ CodeCommit HTTPS
 ユーザ：AdminUser
 パスワード：UserAdmin01
 https://673661531309.signin.aws.amazon.com/console
+AKIAZZWK3GSW2AHMBWFQ
+5/Wf0q1Bz9A/QJ9Pg+NugMS1ip33LjaNjNfEo174
+
 
 ユーザ：developer01
 パスワード：Loper01
+AKIAZZWK3GSWXBVHKDMJ
+mkb+Q/trjr78IttF0FGFC+JXTNNQxoJZ5YrlBAT0
 
+https://ap-northeast-1.console.aws.amazon.com/cloud9/ide/37302866027b48538968019487f18c91
