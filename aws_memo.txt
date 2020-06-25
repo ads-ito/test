@@ -14,3 +14,13 @@ CodeCommit HTTPS
 ユーザ：UserDevelop-at-673661531309
 パスワード：t+/dO7fUByohnxrZKgBK3FAfSAsFx4giXPbpwm7GN5k=
 
+
+
+
+ユーザ：AdminUser
+パスワード：UserAdmin01
+https://673661531309.signin.aws.amazon.com/console
+
+ユーザ：developer01
+パスワード：Loper01
+
